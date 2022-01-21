@@ -1,4 +1,6 @@
 # Simple local development boilerplate
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Description
 
 To quickly test ideas I created a small, simple boilerplate that contains an http server and the basic folder structure. So that one can also create new projects faster, the repo is created as a template.
@@ -28,4 +30,6 @@ There are two ways to use the boilerplate:
 3. To start the server run ```npm run dev```
 4. Now you can develop within the public folder and have fun 🎉 
 
+## Attribution
 
+This template is using [http-server](https://github.com/http-party/http-server)
