@@ -1,4 +1,4 @@
-# Simple local dev boilerplate
+# Simple local development boilerplate
 ## Description
 
 To quickly test ideas I created a small, simple boilerplate that contains an http server and the basic folder structure. So that one can also create new projects faster, the repo is created as a template.
