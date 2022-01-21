@@ -1,0 +1,23 @@
+{
+  "name": "simple-local-dev-boilerplate",
+  "version": "0.0.1",
+  "description": "Simple local dev boilerplate",
+  "main": "./public/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "http-server ./public -o"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biteworks/simple-local-dev-boilerplate.git"
+  },
+  "author": "Tobias Wilhelm (biteworks)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/biteworks/simple-local-dev-boilerplate/issues"
+  },
+  "homepage": "https://github.com/biteworks/simple-local-dev-boilerplate#readme",
+  "dependencies": {
+    "http-server": "^14.1.0"
+  }
+}
